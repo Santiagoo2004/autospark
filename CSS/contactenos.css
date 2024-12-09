@@ -1,0 +1,17 @@
+.mb-3{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    color: gold;
+}
+
+#sello{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: auto;
+    margin-right: 50px;
+  }
